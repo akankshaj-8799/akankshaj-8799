@@ -4,7 +4,7 @@
   <a href="https://github.com/akankshaj-8799">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com/in/akanksha-j">
+  <a href="https://linkedin.com/in/akanksha-jagannath-12333a335">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://leetcode.com/akankshaj">
